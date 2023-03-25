@@ -1,0 +1,3034 @@
+{
+    "data": [
+      {
+        "code": 1235,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-luz"
+      },
+      {
+        "code": 7458,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8840,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8921,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9600,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6303,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6517,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7474,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4705,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6035,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4246,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6026,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7130,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5379,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4293,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5413,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7834,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7282,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3436,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9481,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7906,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8573,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6326,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6139,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6023,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7426,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8934,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8247,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2452,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8181,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2548,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8801,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8622,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3654,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4503,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6956,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4829,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4569,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9219,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6562,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7775,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3025,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1825,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8273,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9938,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4022,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5248,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6666,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7721,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3541,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9662,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5671,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7972,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6017,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9300,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7984,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2942,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7570,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1110,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1956,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9216,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7973,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4114,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2449,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5707,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2469,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5835,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1197,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9001,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5026,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7537,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1426,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2293,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6524,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9988,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9363,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7784,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5750,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5307,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1646,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2156,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1882,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9227,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5541,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2801,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2607,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3944,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2406,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4537,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1268,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4314,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2107,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7348,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2804,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3048,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7185,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8730,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5990,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3446,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5461,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2111,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1235,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-luz"
+      },
+      {
+        "code": 8060,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1641,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7716,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2167,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8117,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4700,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3176,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4533,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7157,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6163,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5616,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5959,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7018,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6031,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3343,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9636,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4891,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4817,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7721,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9061,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6042,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7060,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4086,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8326,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1050,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3920,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8014,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2330,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3848,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8135,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1342,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2997,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6721,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9458,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9898,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4490,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7833,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6580,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3801,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7975,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8760,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5830,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9825,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6638,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2600,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5385,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5964,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8202,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3476,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8037,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3754,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9777,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6485,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3084,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6522,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5912,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6893,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1466,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5063,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2387,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6828,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1755,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3501,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1327,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6840,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4003,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9466,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7395,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1528,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3883,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9822,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9378,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3427,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6737,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5314,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3974,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4862,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9742,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8194,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4410,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7249,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6964,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7753,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1000,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7287,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5239,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2357,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9481,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5246,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3800,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9780,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4360,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6644,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1785,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7353,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9189,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6803,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9518,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9469,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4558,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1235,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-luz"
+      },
+      {
+        "code": 8747,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3806,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5876,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3655,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3550,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7408,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6784,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6128,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8618,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7760,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7638,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3026,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8747,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9195,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7514,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9279,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7412,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3735,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3402,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1407,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2417,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3111,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1649,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5484,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9456,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9168,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8038,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6128,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1383,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5997,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8481,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2656,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2160,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7183,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 1355,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8918,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4007,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6765,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2897,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1227,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9813,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8237,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7279,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9767,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1678,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6128,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1475,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8509,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4196,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3193,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8236,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4731,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6408,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4224,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7279,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6366,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9407,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5040,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7892,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5316,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8981,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1529,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9995,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6869,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2196,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2154,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5163,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6323,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3753,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3822,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1791,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3527,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2897,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8872,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3519,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8007,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2266,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6380,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4096,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6401,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9059,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2896,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7461,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2584,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8568,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9726,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9610,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4239,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3558,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7400,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6159,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6242,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7897,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9808,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3511,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3929,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1404,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3096,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4843,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8299,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1235,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-luz"
+      },
+      {
+        "code": 8297,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4887,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8390,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9976,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6079,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2686,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4629,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6236,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4838,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4832,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6278,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8149,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8696,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7223,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5369,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9597,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6915,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8024,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6071,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8757,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9130,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5274,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2814,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3023,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6062,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8718,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1973,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 9967,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9249,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4605,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1547,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3996,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7172,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6484,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8262,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3886,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6299,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9919,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9498,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2115,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8519,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7979,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7465,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5671,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1956,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3525,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8427,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9769,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2935,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1478,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9119,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8493,
+        "estate": "enabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6283,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5857,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8396,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5165,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7110,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4508,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3054,
+        "estate": "enabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9154,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5463,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2517,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9527,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5171,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6435,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8995,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8555,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6613,
+        "estate": "enabled",
+        "idProyect": 6,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6450,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7064,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1819,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7545,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8539,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1178,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2911,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9578,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7122,
+        "estate": "enabled",
+        "idProyect": 20,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9539,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6309,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5510,
+        "estate": "disabled",
+        "idProyect": 7,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2124,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3157,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3243,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5968,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2113,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8245,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7355,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 8061,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7741,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1128,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7858,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5376,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5374,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2462,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3799,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9161,
+        "estate": "enabled",
+        "idProyect": 10,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1314,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8956,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8883,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6622,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 1235,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-luz"
+      },
+      {
+        "code": 5777,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7418,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4280,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3793,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9613,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3433,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5872,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6398,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9210,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4864,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8295,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 5759,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4603,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6063,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1515,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7360,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 9787,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5261,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3463,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1648,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7131,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4233,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6692,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 2534,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2918,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4226,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 9629,
+        "estate": "disabled",
+        "idProyect": 19,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 7688,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5591,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6307,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7781,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8256,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7258,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8431,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7324,
+        "estate": "enabled",
+        "idProyect": 7,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6309,
+        "estate": "disabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7755,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4623,
+        "estate": "disabled",
+        "idProyect": 9,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7823,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4970,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1322,
+        "estate": "enabled",
+        "idProyect": 5,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 7065,
+        "estate": "disabled",
+        "idProyect": 2,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4081,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8082,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8907,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 5158,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3317,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3829,
+        "estate": "enabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 6694,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5830,
+        "estate": "enabled",
+        "idProyect": 16,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2280,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6469,
+        "estate": "enabled",
+        "idProyect": 18,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4173,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 5326,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4033,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3837,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 9810,
+        "estate": "disabled",
+        "idProyect": 15,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 3438,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6064,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8781,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8667,
+        "estate": "disabled",
+        "idProyect": 14,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4125,
+        "estate": "enabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5377,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6876,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7618,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2849,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7550,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 6032,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4688,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 2361,
+        "estate": "disabled",
+        "idProyect": 4,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6542,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1456,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1715,
+        "estate": "enabled",
+        "idProyect": 9,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5611,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 1200,
+        "estate": "enabled",
+        "idProyect": 2,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8868,
+        "estate": "enabled",
+        "idProyect": 12,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 8809,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 4939,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 3295,
+        "estate": "enabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 8537,
+        "estate": "enabled",
+        "idProyect": 4,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 7367,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 2780,
+        "estate": "enabled",
+        "idProyect": 17,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4697,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 6361,
+        "estate": "enabled",
+        "idProyect": 15,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2616,
+        "estate": "disabled",
+        "idProyect": 11,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 3698,
+        "estate": "disabled",
+        "idProyect": 16,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 6142,
+        "estate": "disabled",
+        "idProyect": 20,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2312,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 1314,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5867,
+        "estate": "disabled",
+        "idProyect": 3,
+        "type": "sensor-calidad-aire"
+      },
+      {
+        "code": 7537,
+        "estate": "disabled",
+        "idProyect": 1,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 4348,
+        "estate": "disabled",
+        "idProyect": 10,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 5599,
+        "estate": "disabled",
+        "idProyect": 12,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 4590,
+        "estate": "disabled",
+        "idProyect": 18,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 3830,
+        "estate": "disabled",
+        "idProyect": 6,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4902,
+        "estate": "disabled",
+        "idProyect": 8,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2705,
+        "estate": "disabled",
+        "idProyect": 13,
+        "type": "sensor-de-carbono"
+      },
+      {
+        "code": 4885,
+        "estate": "enabled",
+        "idProyect": 13,
+        "type": "sensor-de-energia"
+      },
+      {
+        "code": 2911,
+        "estate": "disabled",
+        "idProyect": 5,
+        "type": "sensor-de-temperatura"
+      },
+      {
+        "code": 8736,
+        "estate": "enabled",
+        "idProyect": 14,
+        "type": "sensor-calidad-aire"
+      }
+    ]
+  }
